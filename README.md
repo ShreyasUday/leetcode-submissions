@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0881-boats-to-save-people) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0881-boats-to-save-people) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
