@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0881-boats-to-save-people) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
