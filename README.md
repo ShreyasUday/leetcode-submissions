@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0053-maximum-subarray) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
