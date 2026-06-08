@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
