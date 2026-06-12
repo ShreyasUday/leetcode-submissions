@@ -5,9 +5,10 @@ class Solution {
         for(char c : s.toCharArray()){
             if(!stack.isEmpty() && stack.peek() == c){
                 stack.pop();
-                continue;
             }
-            stack.push(c);
+            else{
+                stack.push(c);
+            }
         }
         StringBuilder str = new StringBuilder();
         while(!stack.isEmpty()){
