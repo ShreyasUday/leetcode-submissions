@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
