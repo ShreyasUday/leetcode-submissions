@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0881-boats-to-save-people) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
