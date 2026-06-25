@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0739-daily-temperatures) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
