@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
