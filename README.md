@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0682-baseball-game) |
+## Graph Theory
+|  |
+| ------- |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
