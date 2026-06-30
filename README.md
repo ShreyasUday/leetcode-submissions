@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
