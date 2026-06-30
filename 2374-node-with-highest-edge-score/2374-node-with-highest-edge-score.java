@@ -16,8 +16,12 @@ class Solution {
                 max = weight[i];
                 res = i;
             }
-            // max = Math.max(max,weight[i]);
         }
         return res;
     }
 }
+
+/*
+    1. make an array 'weight' and then store the value of the node from the edges where the current node is pointing.
+    2. then traverse it to get the maximun value from it and its index
+*/
