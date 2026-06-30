@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2374-node-with-highest-edge-score](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
