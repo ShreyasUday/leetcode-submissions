@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -203,4 +205,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
