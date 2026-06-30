@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [2374-node-with-highest-edge-score](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 ## Topological Sort
 |  |
 | ------- |
