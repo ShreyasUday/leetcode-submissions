@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0085-maximal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -213,8 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
