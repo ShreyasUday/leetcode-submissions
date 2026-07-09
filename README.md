@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2374-node-with-highest-edge-score](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0682-baseball-game) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
