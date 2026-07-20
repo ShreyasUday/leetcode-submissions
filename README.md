@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
+| [2235-add-two-integers](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Heap (Priority Queue)
 |  |
