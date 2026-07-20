@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0739-daily-temperatures) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0085-maximal-rectangle) |
+| [0300-longest-increasing-subsequence](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Interactive
 |  |
