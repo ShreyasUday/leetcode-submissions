@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2374-node-with-highest-edge-score](https://github.com/ShreyasUday/leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
