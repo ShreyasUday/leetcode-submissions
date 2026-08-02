@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/ShreyasUday/leetcode-submissions/tree/master/1661-average-time-of-process-per-machine) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
