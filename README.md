@@ -121,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreyasUday/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -275,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0090-subsets-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShreyasUday/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
